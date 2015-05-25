@@ -1,0 +1,42 @@
+
+.mockup-overlay {
+    top: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
+ }
+
+.image-position{
+  padding-top: 17px;
+  height: 390px;
+  margin-top:-1px;
+  margin-right:40px;
+  margin-bottom:-15px;
+  margin-left:-25px;
+  width: 377px;
+}
+
+h1{
+  font-family: 'Verdana', sans-serif;
+  color: #666;
+  font-size: 56px;
+  margin-top: 40px;
+  margin-right: 213px;
+}
+h2{
+  color:#f07c17;
+}
+.para{
+  font-family: 'Verdana', sans-serif;
+  color: #666;
+  margin-right: 6px;
+  margin-left: 0px;
+  margin-top: 29px;
+  font-size:17px;
+  text-space:6px;
+  font-height:190px;
+}
+h3{
+  color:#f07c17;
+  margin-top:80px;
+}
